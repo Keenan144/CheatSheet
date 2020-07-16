@@ -1,4 +1,4 @@
-CheetSheet
+CheatSheet
 ==========
 
-DBC CheetSheet
+DBC CheatSheet
